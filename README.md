@@ -1,4 +1,5 @@
 # CCE105_BRIONES
+In this program you can choose what type of water tank and after choosing you can choose what action you do.
 <img width="450" height="348" alt="Screenshot 2025-08-27 232424" src="https://github.com/user-attachments/assets/2137e661-1f79-442d-b746-32a1340c2971" />
 <img width="571" height="337" alt="Screenshot 2025-08-27 232442" src="https://github.com/user-attachments/assets/b182f5a1-152f-4af1-bbc2-869a3e59d385" />
 <img width="440" height="252" alt="Screenshot 2025-08-27 232448" src="https://github.com/user-attachments/assets/69d412c7-7ed7-4bb1-8a59-fc72cf6beb13" />
